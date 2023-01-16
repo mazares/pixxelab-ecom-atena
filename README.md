@@ -1,1 +1,1 @@
-# pixxelab-ecom-atena
+# pixellab-ecom-atena
